@@ -1,0 +1,7 @@
+/Users/prasanth/Desktop/test/learningapp/bin/Publish/learningapp
+/Users/prasanth/Desktop/test/learningapp/bin/Publish/appsettings.Development.json
+/Users/prasanth/Desktop/test/learningapp/bin/Publish/appsettings.json
+/Users/prasanth/Desktop/test/learningapp/bin/Publish/learningapp.dll
+/Users/prasanth/Desktop/test/learningapp/bin/Publish/learningapp.deps.json
+/Users/prasanth/Desktop/test/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/prasanth/Desktop/test/learningapp/bin/Publish/learningapp.pdb
